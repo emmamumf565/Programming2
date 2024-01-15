@@ -8,9 +8,9 @@ For this program, I used the following add-ons:
 
 The dataset contains data on patients (identified by 'personId' numbers 1-100 with age and sex data provided) with information on whether they had experienced a certain factor in the prior year and then some predicted risks of certain diseases.
 
-The folder 'Data_files' contains the raw data and all manipulated data
+patient_risk_profiles is the raw dataset I chose.
 
-The file 'Data_manipulation.py' contains the initial dataset and the code to transform it into more easily handled data.
+The file 'Read_data.ipynb' contains the initial dataset and the code to transform it into more easily handled data files. Please run this file first as it will save some csv files which will be required for the subsequent data manipulation code.
 
 
-Each subsequent visualisation_n.py file contains the code for a different visualisation/plot
+Each subsequent visualisation_#.py file contains the code for a different visualisation/plot. These are designed to be read in order
