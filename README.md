@@ -7,6 +7,6 @@ patient_risk_profiles.csv is the raw dataset I chose.
 
 The file 'Read_data.ipynb' contains the initial dataset and the code to transform it into more easily handled data files. Please run this file first as it will save some csv files which will be required for the subsequent data manipulation and visualisation.
 
-Data_summaries.ipynb contains some statistics about the data, no actual plots of the data
-
 Each subsequent visualisation_#.py file contains the code for a different visualisation/plot.
+
+Data_summaries.ipynb contains some summary statistics about the data, no actual plots of the data. This is designed to be read last
